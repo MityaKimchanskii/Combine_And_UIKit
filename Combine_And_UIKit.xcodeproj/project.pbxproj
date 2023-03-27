@@ -56,15 +56,23 @@
 		3BACDBD129D10B5200D758E7 /* Combine_And_UIKit */ = {
 			isa = PBXGroup;
 			children = (
-				3BACDBD229D10B5200D758E7 /* AppDelegate.swift */,
-				3BACDBD429D10B5200D758E7 /* SceneDelegate.swift */,
 				3BACDBD629D10B5200D758E7 /* ViewController.swift */,
 				3BACDBD829D10B5200D758E7 /* Main.storyboard */,
+				3BACDBE629D10BA100D758E7 /* Files */,
+			);
+			path = Combine_And_UIKit;
+			sourceTree = "<group>";
+		};
+		3BACDBE629D10BA100D758E7 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				3BACDBD229D10B5200D758E7 /* AppDelegate.swift */,
+				3BACDBD429D10B5200D758E7 /* SceneDelegate.swift */,
 				3BACDBDB29D10B5300D758E7 /* Assets.xcassets */,
 				3BACDBDD29D10B5300D758E7 /* LaunchScreen.storyboard */,
 				3BACDBE029D10B5300D758E7 /* Info.plist */,
 			);
-			path = Combine_And_UIKit;
+			name = Files;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
